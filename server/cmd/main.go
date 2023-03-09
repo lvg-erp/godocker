@@ -1,7 +1,7 @@
 package main
 
 import (
-	"godocker/db"
+	"godocker/server/db"
 	"log"
 )
 
