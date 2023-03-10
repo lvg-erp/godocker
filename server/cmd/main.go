@@ -1,8 +1,8 @@
 package main
 
 import (
-	"godocker/server/db"
 	"log"
+	"server/db"
 )
 
 func main() {
